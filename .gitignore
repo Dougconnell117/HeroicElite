@@ -1,9 +1,11 @@
 
 Saved/AutoScreenshot.png
 
-Saved/Logs/HeroicElite-backup-2019.01.11-21.59.44.log
+Saved\AutoScreenshot.png
+Saved\Logs\HeroicElite.log
 
-Saved/Logs/HeroicElite-backup-2019.01.11-22.17.49.log
+
+*.log
 
 
 ### UnrealEngine ###
