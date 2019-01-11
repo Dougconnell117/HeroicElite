@@ -862,3 +862,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.11-22.22.53:598][837]Cmd: MAP CHECKDEP NOCLEARLOG
 [2019.01.11-22.22.53:598][837]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.179ms to complete.
 [2019.01.11-22.22.53:598][837]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.300
+[2019.01.11-22.34.24:521][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.11-22.34.25:063][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.11-22.34.32:052][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.11-22.35.03:351][445]LogSavePackage: Moving 'C:/Users/Doug/Documents/Unreal Projects/HeroicElite/Saved/ThirdPersonExampleMap_Auto1F55392994155979CA32A42B1FFB9B119.tmp' to 'C:/Users/Doug/Documents/Unreal Projects/HeroicElite/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.01.11-22.35.03:380][445]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.715
+[2019.01.11-22.35.03:380][445]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.715
